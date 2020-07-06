@@ -40,6 +40,9 @@ function App() {
           href = "https://www.instagram.com/makeupshannoniganz/"> 
           follow my instagram ;) 
         </a>
+        <a href ="https://www.youtube.com/user/slrox7">
+          subscribe to my youtube!
+        </a>
       </div>
     </div>
   );
