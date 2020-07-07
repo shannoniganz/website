@@ -42,7 +42,7 @@
 
 .pics{ 
   font-size: calc(20px + 2vmin);
-  font-family: "URW Chancery L", cursive;
+  font-family: "URW Chancery L", cursive; 
   color: #98ff98;
   background-color: pink;
 }
